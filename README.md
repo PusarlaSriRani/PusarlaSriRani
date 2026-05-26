@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/PusarlaSriRani/PusarlaSriRani/blob/main/srirani%20passphoto.jpg" width="180" style="border-radius:50%" />
+</p>
 # 👋 Hi, I'm Sri Rani Pusarla  
 
 🎓 B.Tech CSE Graduate | 🤖 AI Researcher | 🌐 Full Stack Developer  
