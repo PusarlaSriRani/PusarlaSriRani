@@ -1,4 +1,4 @@
-# 👩‍💻 Sri Rani Pusarla  
+# Hi there 👋, I'm Sri Rani Pusarla  
 
 🎓 B.Tech CSE Graduate | 🤖 AI Researcher | 🌐 Full Stack Developer  
 
