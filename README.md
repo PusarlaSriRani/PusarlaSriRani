@@ -2,14 +2,19 @@
   <img src="https://github.com/PusarlaSriRani/PusarlaSriRani/blob/main/srirani%20passphoto.jpg" width="180" style="border-radius:50%" />
 </p>
 
-# 👋 Hi, I'm Sri Rani Pusarla  
+# 👋 Hi there, I'm Sri Rani Pusarla  
 
-🎓 B.Tech CSE Graduate | 🤖 AI Researcher | 🌐 Full Stack Developer  
+### 🤖 AI Researcher | 🌐 Full Stack Developer | 💻 Software Engineer  
 📍 Hyderabad, India  
 
-🔗 LinkedIn: https://www.linkedin.com/in/sri-rani-pusarla-0238b32b7/  
-💻 GitHub: https://github.com/PusarlaSriRani  
-📧 Email: srirani1227@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sri-rani-pusarla-0238b32b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:srirani1227@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
@@ -27,7 +32,7 @@ I am highly interested in:
 
 ## 🛠️ My Tech Stack  
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 
@@ -35,7 +40,7 @@ I am highly interested in:
 
 ## 🤖 AI & ML Skills  
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-blue" />
   <img src="https://img.shields.io/badge/Deep%20Learning-red" />
   <img src="https://img.shields.io/badge/NLP-green" />
@@ -63,19 +68,33 @@ I am highly interested in:
 
 ## 📊 GitHub Stats  
 
-![Sri Rani's GitHub stats](https://github-readme-stats.vercel.app/api?username=PusarlaSriRani&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PusarlaSriRani&show_icons=true&theme=radical" />
+</p>
 
 ---
 
 ## 🔥 Streak Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PusarlaSriRani&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PusarlaSriRani&theme=radical" />
+</p>
 
 ---
 
 ## 💻 Top Languages  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PusarlaSriRani&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PusarlaSriRani&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PusarlaSriRani&theme=react-dark" />
+</p>
 
 ---
 
