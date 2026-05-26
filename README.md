@@ -33,7 +33,7 @@ I am highly interested in:
 ## 🛠️ My Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 </p>
 
 ---
@@ -41,28 +41,25 @@ I am highly interested in:
 ## 🤖 AI & ML Skills  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-blue" />
+  <img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-purple" />
+  <img src="https://img.shields.io/badge/ML-Machine%20Learning-blue" />
   <img src="https://img.shields.io/badge/Deep%20Learning-red" />
   <img src="https://img.shields.io/badge/NLP-green" />
 </p>
 
 ---
 
-## 💼 Projects  
+## 💼 Projects / Repositories  
 
-### 🌦️ Live Weather Forecasting  
-- Built using **HTML, CSS, JavaScript**  
-- Uses OpenWeatherMap API  
-- Displays temperature, humidity, and wind speed  
-- Responsive UI design  
+- 🌦️ **Live Weather Forecasting**  
+  🔗 https://github.com/PusarlaSriRani  
+  - HTML, CSS, JavaScript  
+  - Weather API integration  
 
----
-
-### 🧬 Liver Tumor Segmentation & Detection  
-- Developed using **Deep Learning (FCN-ResNet50)**  
-- High accuracy medical image segmentation  
-- Built a **Flask web application** for real-time prediction  
-- Focused on healthcare AI  
+- 🧬 **Liver Tumor Segmentation & Detection**  
+  🔗 https://github.com/PusarlaSriRani  
+  - Deep Learning (FCN-ResNet50)  
+  - Flask Web App  
 
 ---
 
@@ -95,6 +92,14 @@ I am highly interested in:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PusarlaSriRani&theme=react-dark" />
 </p>
+
+---
+
+## 📅 Year-wise Contributions  
+
+- 🟢 **2024** – Started GitHub journey, worked on ML basics & mini projects  
+- 🔵 **2025** – Built real-world projects (Weather App, Liver Tumor Detection), internships  
+- 🟣 **2026** – Improving consistency, focusing on AI research & full stack projects  
 
 ---
 
