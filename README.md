@@ -1,6 +1,7 @@
-# Hi there 👋, I'm Sri Rani Pusarla  
+# 👋 Hi, I'm Sri Rani Pusarla  
 
-🎓 B.Tech CSE Graduate | 🤖 AI Researcher | 🌐 Full Stack Developer  📍 Hyderabad, India 
+🎓 B.Tech CSE Graduate | 🤖 AI Researcher | 🌐 Full Stack Developer  
+📍 Hyderabad, India  
 
 🔗 LinkedIn: https://www.linkedin.com/in/sri-rani-pusarla-0238b32b7/  
 💻 GitHub: https://github.com/PusarlaSriRani  
@@ -9,36 +10,68 @@
 ---
 
 ## 🚀 About Me  
-I am a passionate AI enthusiast and recent Computer Science graduate from Raghu Institute of Technology, Vizag.  
+I am a passionate and detail-oriented Computer Science graduate from Raghu Institute of Technology, Vizag.  
 
-I am deeply interested in building intelligent systems and solving real-world problems using Artificial Intelligence, Machine Learning, and Web Technologies.  
+I love building intelligent systems and solving real-world problems using **Artificial Intelligence, Machine Learning, and Web Development**.  
+
+I am highly interested in:
+- 🤖 AI Research  
+- 👁️ Computer Vision  
+- 🧠 Natural Language Processing  
 
 ---
 
-## 🛠️ Tech Skills  
-- 💻 Languages: Python, JavaScript, SQL  
-- 🌐 Web: HTML, CSS  
-- 🤖 AI/ML: Machine Learning, Deep Learning (Basics), NLP  
-- 🧰 Tools: Git, VS Code, Jupyter Notebook  
+## 🛠️ My Tech Stack  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+---
+
+## 🤖 AI & ML Skills  
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-red" />
+  <img src="https://img.shields.io/badge/NLP-green" />
+</p>
 
 ---
 
 ## 💼 Projects  
 
 ### 🌦️ Live Weather Forecasting  
-- Built using HTML, CSS, JavaScript  
+- Built using **HTML, CSS, JavaScript**  
 - Uses OpenWeatherMap API  
-- Displays temperature, humidity, wind speed  
+- Displays temperature, humidity, and wind speed  
+- Responsive UI design  
 
-### 🧬 Liver Tumor Detection using Deep Learning  
-- Developed using FCN-ResNet50  
+---
+
+### 🧬 Liver Tumor Segmentation & Detection  
+- Developed using **Deep Learning (FCN-ResNet50)**  
 - High accuracy medical image segmentation  
-- Flask-based web application  
+- Built a **Flask web application** for real-time prediction  
+- Focused on healthcare AI  
 
 ---
 
 ## 📊 GitHub Stats  
-![Sri Rani's GitHub stats](https://github-readme-stats.vercel.app/api?username=PusarlaSriRani&show_icons=true)
+
+![Sri Rani's GitHub stats](https://github-readme-stats.vercel.app/api?username=PusarlaSriRani&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PusarlaSriRani&theme=radical)
+
+---
+
+## 💻 Top Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PusarlaSriRani&layout=compact&theme=radical)
 
 ---
 
@@ -50,6 +83,17 @@ I am deeply interested in building intelligent systems and solving real-world pr
 ---
 
 ## 🎉 Fun Facts  
-- 💡 I love solving problems using AI  
-- 🔍 Interested in AI projects & computer vision  
+- 💡 I love solving real-world problems using AI  
+- 🔍 Passionate about healthcare AI & computer vision  
 - 🚀 Always learning new technologies  
+
+---
+
+## 🙌 Let's Connect  
+
+📧 Email: srirani1227@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sri-rani-pusarla-0238b32b7/  
+
+---
+
+⭐ *Thanks for visiting my profile!*
