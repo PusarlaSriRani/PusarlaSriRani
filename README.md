@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sri Rani Pusarla  
 
-🎓 B.Tech CSE Graduate | 🤖 AI Researcher | 🌐 Full Stack Developer  
+🎓 B.Tech CSE Graduate | 🤖 AI Researcher | 🌐 Full Stack Developer  📍 Hyderabad, India 
 
 🔗 LinkedIn: https://www.linkedin.com/in/sri-rani-pusarla-0238b32b7/  
 💻 GitHub: https://github.com/PusarlaSriRani  
