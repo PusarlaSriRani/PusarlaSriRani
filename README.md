@@ -1,175 +1,122 @@
-# 👋 Hi there, I'm Sri Rani Pusarla
-
-### 🤖 AI Researcher \| 🌐 Full Stack Developer \| 💻 Software Engineer
-
-📍 **Hyderabad, India**
-
-```{=html}
 <p align="center">
-```
-`<img src="https://github.com/PusarlaSriRani/PusarlaSriRani/blob/main/srirani%20passphoto.jpg" width="180"/>`{=html}
-```{=html}
+  <img src="https://github.com/PusarlaSriRani/PusarlaSriRani/blob/main/srirani%20passphoto.jpg" width="180" style="border-radius:50%" />
 </p>
-```
-```{=html}
+
+# 👋 Hi there, I'm Sri Rani Pusarla  
+
+### 🤖 AI Researcher | 🌐 Full Stack Developer | 💻 Software Engineer  
+📍 Hyderabad, India  
+
 <p align="center">
-```
-`<a href="https://www.linkedin.com/in/sri-rani-pusarla-0238b32b7/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>`{=html}`</a>`{=html}
-`<a href="mailto:srirani1227@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/PusarlaSriRani">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}`</a>`{=html}
-```{=html}
+  <a href="https://www.linkedin.com/in/sri-rani-pusarla-0238b32b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:srirani1227@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🚀 About Me
+## 🚀 About Me  
+I am a passionate and detail-oriented Computer Science graduate from Raghu Institute of Technology, Vizag.  
 
-Recent B.Tech CSE graduate from **Raghu Institute of Technology, Vizag**
-passionate about Artificial Intelligence, Machine Learning and Full
-Stack Development. I enjoy building intelligent applications that solve
-real-world problems with a research mindset.
+I love building intelligent systems and solving real-world problems using **Artificial Intelligence, Machine Learning, and Web Development**.  
 
-**Open To** - AI Research - Machine Learning Engineer - Full Stack
-Developer - Software Engineer
+I am highly interested in:
+- 🤖 AI Research  
+- 👁️ Computer Vision  
+- 🧠 Natural Language Processing  
 
-------------------------------------------------------------------------
+---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack  
 
-```{=html}
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,flask"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
-```
-  Domain       Skills
-  ------------ --------------------------------------
-  Languages    Python, JavaScript, HTML, CSS
-  AI / ML      Machine Learning, Deep Learning, NLP
-  Frameworks   Flask
-  Tools        Git, GitHub, VS Code, Jupyter
 
-------------------------------------------------------------------------
+---
 
-## 🤖 AI / ML Expertise
+## 🤖 AI & ML Skills  
 
-  Area               Level       Details
-  ------------------ ----------- --------------------------------
-  Machine Learning   ⭐⭐⭐⭐☆   Model building & preprocessing
-  Deep Learning      ⭐⭐⭐⭐☆   CNN & FCN-ResNet50
-  Computer Vision    ⭐⭐⭐⭐☆   Medical image analysis
-  NLP                ⭐⭐⭐☆☆    Foundations & text processing
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-red" />
+  <img src="https://img.shields.io/badge/NLP-green" />
+</p>
 
-------------------------------------------------------------------------
+---
 
-## 💼 Featured Projects
+## 💼 Projects  
 
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-🌦️ Live Weather Forecasting
-```{=html}
-</summary>
-```
--   HTML, CSS, JavaScript
--   OpenWeatherMap API
--   Responsive UI
--   Real-time weather updates
+### 🌦️ Live Weather Forecasting  
+- Built using **HTML, CSS, JavaScript**  
+- Uses OpenWeatherMap API  
+- Displays temperature, humidity, and wind speed  
+- Responsive UI design  
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-🧬 Liver Tumor Segmentation & Detection
-```{=html}
-</summary>
-```
--   FCN-ResNet50
--   Flask Web Application
--   Medical image segmentation
--   Deep Learning
+---
 
-```{=html}
-</details>
-```
+### 🧬 Liver Tumor Segmentation & Detection  
+- Developed using **Deep Learning (FCN-ResNet50)**  
+- High accuracy medical image segmentation  
+- Built a **Flask web application** for real-time prediction  
+- Focused on healthcare AI  
 
-------------------------------------------------------------------------
+---
 
-## 📜 Certifications
+## 📊 GitHub Stats  
 
--   NPTEL -- Joy of Computing using Python
--   NPTEL -- Introduction to Machine Learning
--   Udemy -- Software Testing
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PusarlaSriRani&show_icons=true&theme=radical" />
+</p>
 
-------------------------------------------------------------------------
+---
 
-## 📊 GitHub Analytics
+## 🔥 Streak Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=PusarlaSriRani&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PusarlaSriRani&theme=radical" />
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=PusarlaSriRani&theme=tokyonight)
+---
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PusarlaSriRani&layout=compact&theme=tokyonight)
+## 💻 Top Languages  
 
-------------------------------------------------------------------------
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PusarlaSriRani&layout=compact&theme=radical" />
+</p>
 
-## 🏆 GitHub Trophies
+---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=PusarlaSriRani&theme=algolia&column=4)
+## 📈 Contribution Activity  
 
-------------------------------------------------------------------------
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PusarlaSriRani&theme=react-dark" />
+</p>
 
-## 📈 Contribution Activity
+---
 
-![Activity
-Graph](https://github-readme-activity-graph.vercel.app/graph?username=PusarlaSriRani&theme=tokyo-night)
+## 🎯 Career Interests  
+- AI Researcher  
+- Machine Learning Engineer  
+- Full Stack Developer  
 
-------------------------------------------------------------------------
+---
 
-## 🐍 Contribution Snake
+## 🎉 Fun Facts  
+- 💡 I love solving real-world problems using AI  
+- 🔍 Passionate about healthcare AI & computer vision  
+- 🚀 Always learning new technologies  
 
-``` text
-Enable GitHub Actions and use Platane/snk to generate snake animation.
-```
+---
 
-------------------------------------------------------------------------
+## 🙌 Let's Connect  
 
-## 🎯 Current Focus
+📧 Email: srirani1227@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sri-rani-pusarla-0238b32b7/  
 
-``` yaml
-learning:
-  - Generative AI
-  - Deep Learning
-building:
-  - AI Applications
-  - Full Stack Projects
-exploring:
-  - Computer Vision
-  - NLP
-open_to:
-  - AI Research
-  - Software Development
-```
+---
 
-------------------------------------------------------------------------
-
-## 🤝 Connect
-
--   📧 srirani1227@gmail.com
--   💼 https://www.linkedin.com/in/sri-rani-pusarla-0238b32b7/
--   💻 https://github.com/PusarlaSriRani
-
-------------------------------------------------------------------------
-
-> "Building intelligent solutions that create real-world impact."
+⭐ *Thanks for visiting my profile!*
