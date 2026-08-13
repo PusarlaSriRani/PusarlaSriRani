@@ -16,9 +16,7 @@
   </a>
 </p>
 
----
-
-## 🚀 About Me  
+---  
 ## 🚀 About Me
 
 I am a passionate **Software Developer** with strong knowledge in **Full Stack Development**, including both **Frontend and Backend technologies**.
