@@ -30,12 +30,19 @@ I am highly interested in:
 
 ---
 
-## 🛠️ My Tech Stack  
+### 💻 Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-</p>
+**Languages:** Python, Java, JavaScript, TypeScript, SQL, HTML, CSS
 
+**Frontend:** React.js, Tailwind CSS, Vite
+
+**Backend:** FastAPI, Flask, Django, REST APIs
+
+**Databases:** MongoDB, PostgreSQL, MySQL
+
+**AI/ML:** TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, YOLOv8
+
+**Tools:** Git, GitHub, Docker, AWS, Azure, GCP, Postman, VS Code
 ---
 
 ## 🤖 AI & ML Skills  
