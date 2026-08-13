@@ -19,15 +19,21 @@
 ---
 
 ## 🚀 About Me  
-I am a passionate and detail-oriented Computer Science graduate from Raghu Institute of Technology, Vizag.  
+## 🚀 About Me
 
-I love building intelligent systems and solving real-world problems using **Artificial Intelligence, Machine Learning, and Web Development**.  
+I am a passionate **Software Developer** with strong knowledge in **Full Stack Development**, including both **Frontend and Backend technologies**.
 
-I am highly interested in:
-- 🤖 AI Research  
-- 👁️ Computer Vision  
-- 🧠 Natural Language Processing  
+I enjoy building scalable web applications, developing responsive user interfaces, and creating efficient backend systems that solve real-world problems.
 
+### 💡 My Expertise
+
+- 🎨 Frontend Development (React.js, HTML, CSS, JavaScript, TypeScript)
+- ⚙️ Backend Development (FastAPI, Flask, Django, REST APIs)
+- 🗄️ Database Management (MongoDB, PostgreSQL, MySQL)
+- 🔗 API Development & Integration
+- ☁️ Full Stack Application Development
+
+I am continuously learning new technologies and improving my skills to build modern, high-performance, and user-friendly applications.
 ---
 
 ### 💻 Skills
@@ -140,17 +146,23 @@ I am highly interested in:
 
 ---
 
-## 🎯 Career Interests  
-- AI Researcher  
-- Machine Learning Engineer  
-- Full Stack Developer  
+## 🎯 Career Interests
+
+- 💻 Software Developer
+- 🌐 Full Stack Developer
+- 🎨 Frontend Developer
+- ⚙️ Backend Developer
+- 🚀 Web Application Developer
 
 ---
 
-## 🎉 Fun Facts  
-- 💡 I love solving real-world problems using AI  
-- 🔍 Passionate about healthcare AI & computer vision  
-- 🚀 Always learning new technologies  
+## 🎉 Fun Facts
+
+- 💻 I enjoy building responsive and user-friendly web applications
+- ⚙️ Passionate about both frontend and backend development
+- 🚀 Always exploring new technologies and improving my full stack skills
+- 🧩 I love solving real-world problems through clean and efficient code
+- 🌱 Continuously learning modern frameworks, APIs, and development tools
 
 ---
 
